@@ -11,12 +11,15 @@ Displays distance as a **radar view** (0°–180°) and **distance vs time graph
 ## 📷 Screenshots
 
 **Radar View**  
-![Radar Screenshot](docs/radar_screenshot.png)
+
 
 **Distance vs Time Graph**  
-![Graph Screenshot](docs/graph_screenshot.png)
+
+
 
 ---
+
+
 
 ## 🛠 Hardware Setup
 
